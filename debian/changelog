@@ -1,3 +1,9 @@
+shellinabox (2.22) unstable; urgency=medium
+
+  * Keyboard icon on Android, Mobile, and Tablet
+
+ -- Zanhecht <example@example.com>  Thu, 13 Feb 2025 12:00:00 -0500
+
 shellinabox (2.21) unstable; urgency=medium
 
   * Patched DoS vulnerability reported by Imre Rad.
